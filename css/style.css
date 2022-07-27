@@ -1,0 +1,28 @@
+
+/********* common css **********/
+.common-margin{
+    margin-top: 3.938rem;
+    margin-bottom: 3.938rem;
+}
+.bg-purpel{
+    background-color: #FCEAE8;
+}
+.bg-btn{
+    background-color: #FF297D;
+}
+.text-color{
+    color: #FF297D;
+}
+.watch-bg{
+    background-color: #FFA500;
+}
+.bg-bag{
+    background-color: #DA70D6;
+}
+.bg-shoes{
+    background-color: #0000FF;
+}
+/************* catagorise *************/
+.catagorise img{
+    width: 100px;
+}

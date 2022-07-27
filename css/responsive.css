@@ -1,0 +1,14 @@
+/************ responsive start ***********/
+/* mobile-device */
+@media only screen and (max-width: 768px) {
+    .carousel-item .row{
+        flex-direction: column-reverse;
+    }
+    .corousel-img{
+        margin-bottom: 2rem;
+    }
+    .catagprose{
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+}
